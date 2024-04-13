@@ -1,0 +1,77 @@
+Thank you for choosing the OCI distribution of ACE and TAO. This README
+file provides information about the purpose of this release and
+the resources available to support your ACE and TAO projects.
+
+The OCI distribution is based on ACE and TAO as distributed by the
+Center for Distributed Object Computing (the DOC group.) For
+additional information about the DOC group release, please refer to
+the file DOC_README in the directory that contains this file.
+
+IMPORTANT: Please do not submit support requests for the OCI ACE and
+TAO distribution to the DOC group.  If you need support follow the
+procedures below, or start with the web site at
+http://www.theaceorb.com/support/index.html.
+
+Because the DOC group focuses primarily on research the DOC group
+distribution contains ongoing experimental work and cutting-edge
+technology which may not provide sufficient version control and
+support for backwards compatibility needed for commercial use. The DOC
+group provides a very high level of support through the ACE users and
+TAO users mailing lists; however, this support is on a volunteer basis
+and is provided only as time is available.
+
+DOC group support is also limited to the most recent releases of ACE and
+TAO so the response to questions about older versions is often simply,
+"upgrade to the latest release." Also the DOC group does not provide
+support for derived works such as the OCI distribution so if you ask
+them for support for this OCI distribution they will simply refer you
+back to OCI.
+
+At OCI we understand that predictable support is important, and that
+upgrading infrastructure software may not be an option if it risks
+destabilizing a project at a critical point in its life cycle. To meet
+the needs of customers for predictable support and a distribution that
+focuses on stability and reliability rather than rapid evolution, OCI
+provides this distribution and offers support for this and previous
+OCI distributions of ACE and TAO.
+
+For help with any OCI distribution of ACE and TAO, please fill out the
+problem report form (PRF) which can be found in the file
+ACE_wrappers/TAO/PROBLEM-REPORT-FORM (for TAO problems) or
+ACE_wrappers/PROBLEM-REPORT-FORM for ACE problems. Submit this form and
+any additional information which will help diagnose the problem to
+support@ociweb.com. If you do not have an existing support account
+with OCI, you will be asked to set one up. Because providing commercial
+support for ACE and TAO is a primary source of revenue for OCI, we can
+provide only very limited help until a support account is established.
+
+To avoid delays getting support, we strongly recommend that you set up
+an account before you actually need help. There is no cost to establish
+a normal account.  Support charges only apply to work actually delivered.
+However, we do offer premium level accounts for customers with
+extraordinary support needs, and there may be ongoing charges for such
+premium service.  To set up a support account or to find out more about
+the support options available, please contact sales@ociweb.com.
+
+In addition to supporting stable versions of ACE and TAO, OCI often
+works with sponsoring companies and organizations to add additional
+features to TAO (and occasionally ACE.) Assuming the sponsor agrees,
+these additional features are also incorporated into the DOC group's
+current beta release so that they can become part of the ongoing
+evolution of ACE and TAO. This lets the sponsor influence the direction
+in which ACE and TAO evolve to ensure that this evolution meets the
+sponsor's current and future needs.  It also lets the sponsor
+participate in the Open Source process without excessive load on their
+own technical resources.  The sponsor of any new features added to
+ACE and/or TAO by OCI will be given full credit for their contribution
+if they so choose.
+
+If there are features you would like to see added to TAO, please let us
+know at sales@ociweb.com so we can provide an estimate of the amount of
+work involved in implementing the feature and incorporating it into the
+OCI and the DOC group distributions.
+
+OCI also offers training and consulting services to organizations that
+use ACE and TAO.  Our training can help developers get up-to-speed
+quickly.  For more information about our training and consulting services
+check our web site at http://www.ociweb.com.
