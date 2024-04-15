@@ -1,3 +1,0 @@
-feature(!no_valgrind) {
-  macros += WITH_VALGRIND
-}

@@ -1,2 +1,0 @@
-feature(!no_cxx11, no_opendds_safety_profile): rtps_relay_lib {
-}

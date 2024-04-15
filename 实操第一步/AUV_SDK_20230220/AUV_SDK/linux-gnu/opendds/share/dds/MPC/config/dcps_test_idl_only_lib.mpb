@@ -1,4 +1,0 @@
-// Base project for DDS tests that build a library from the generated code.
-
-project: dcps_test, dcps_idl_only_lib {
-}
